@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="Category 1">
+        <EditTextPreference android:key="Namekey"
+            android:title="Nickname: "
+            android:dialogTitle="Enter your nickname">
+        </EditTextPreference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Category 2">
+        <ListPreference android:title="Data Connection"
+            android:key="Datakey"
+            android:entries="@array/data_conn"
+            android:entryValues="@array/dataconnselected"
+            android:dialogTitle="Sync Preference"
+            android:defaultValue="Either">
+        </ListPreference>
+        <ListPreference android:title="List Sharing"
+            android:key="Listkey"
+            android:entries="@array/share_list"
+            android:entryValues="@array/listselected"
+            android:dialogTitle="Which List(s) to Share"
+            android:defaultValue="Both">
+        </ListPreference>
+    </PreferenceCategory>
+    <Preference android:title="Update"
+        android:key="submitPref" />
+    
+
+</PreferenceScreen>

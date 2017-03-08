@@ -1,0 +1,117 @@
+<resources>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_preference_frag_app">PreferenceFragAppActivity</string>
+    <string-array name="navig_array">
+        <item>@string/home_title</item>
+        <item>@string/books_title</item>
+        <item>@string/music_title</item>
+        <item>@string/news_title</item>
+        <item>@string/settings_title</item>
+    </string-array>
+
+    <string-array name="ICE">
+        <item>Chandra Bommas</item>
+        <item>Fawad Ahmad</item>
+        <item>Basanta Tandon</item>
+        <item>Renate Pyhel</item>
+        <item>Melisandre Carice von Houten</item>
+    </string-array>
+    <string-array name="DEFCON">
+        <item>Farid Zidan</item>
+        <item>Ritesh Saraf</item>
+        <item>Any API Owner</item>
+        <item>Retail Technology Vortex</item>
+        <item>Cersei Lanister</item>
+    </string-array>
+    <string-array name="Workout">
+        <item>Pushups - 10 sets x 100 reps</item>
+        <item>Barbells - 10 sets x 200 pounds</item>
+        <item>Benchpress - 10 sets x 300 pounds</item>
+        <item>Dwayne Johnson Rock Hard Reps - 10 sets x 100 reps</item>
+        <item>Incline Dumbbell press - 10 sets x 250 pounds</item>
+        <item>Dumbbell Flys - 10 sets x 100 pounds</item>
+        <item>John Cena WWE Reps - 10 sets x 100 reps</item>
+        <item>Legpress - 10 sets x 300 pounds</item>
+        <item>Leg Squats - 10 sets x 100 reps</item>
+        <item>Fantastic Four The Thing Reps - 10 sets x 100 reps</item>
+        <item>Seated Rows - 10 sets x 200 resistance</item>
+        <item>Barbell Rows - 10 sets x 300 resistance</item>
+        <item>Chinups - 10 sets x 100 reps</item>
+        <item>The HULK Reps - 10 sets x 100 reps</item>
+        <item>Abdominals - 10 sets x 100 reps</item>
+        <item>Barbell Bicep Curls - 10 sets x 200 pounds</item>
+    </string-array>
+
+    <!--See http://www.imdb.com/list/ls056007777/ -->
+    <string-array name="BlackBook">
+        <item>Shruti Haasan</item>
+        <item>Urvashi Rautela</item>
+        <item>Anushka Sharma</item>
+        <item>Nargis Fakhri</item>
+        <item>Alia Bhatt</item>
+        <item>Katrina Kaif</item>
+        <item>Kareena Kapoor</item>
+        <item>Jacqueline Fernandez</item>
+        <item>Tamannaah Bhatia</item>
+        <item>Kriti Sanon</item>
+        <item>Yami Gautam</item>
+        <item>Neha Sharma</item>
+        <item>Elli Avram</item>
+        <item>Sunny Leone</item>
+        <item>Zarine Khan</item>
+        <item>Shraddha Kapoor</item>
+    </string-array>
+    <string-array name="Created">
+        <item>Mike Fallon</item>
+        <item>Gov</item>
+    </string-array>
+    <string-array name="data_conn">
+        <item>Wi-Fi Only</item>
+        <item>Internet Only</item>
+        <item>Either</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Books</item>
+        <item>Music</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="dataconnselected">
+        <item>Wi-Fi Only</item>
+        <item>Internet Only</item>
+        <item>Either</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="listselected">
+        <item>Books</item>
+        <item>Music</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="booklist">
+    	<item>The Passage</item>
+    	<item>The Twelve</item>
+    	<item>Hunger Games</item>
+    	<item>Unbroken</item>
+    	<item>A Soldiers Journey</item>
+    </string-array>
+    <string-array name="songlist">
+    	<item>Diamonds</item>
+    	<item>MoneyGrabber</item>
+    	<item>Layla</item>
+    	<item>Bark At The Moon</item>
+    	<item>Dancin On The Ceiling</item>
+    </string-array>   
+    <string-array name="authors">
+    	<item>Justin Cronin</item>
+    	<item>Mark Twain</item>
+    	<item>Laura Hillenbrand</item>
+    	<item>Dr. Seuss</item>
+    	<item>Katie Norris</item>
+    </string-array>
+    <string-array name="artists">
+    	<item>Rihanna</item>
+    	<item>Fitz and the Tantrums</item>
+    	<item>Eric Clapton</item>
+    	<item>Ozzy Osbourne</item>
+    	<item>Lionel Ritchie</item>
+    </string-array>
+</resources>

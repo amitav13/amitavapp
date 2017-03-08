@@ -1,0 +1,875 @@
+[
+    {
+        "outputFile": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1990,
+                        "endLine": 62,
+                        "endColumn": 19,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2623,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 2733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endLine": 37,
+                    "endColumn": 19,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 2246
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endLine": 42,
+                        "endColumn": 19,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2251,
+                    "endLine": 62,
+                    "endColumn": 19,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4026,
+                        "endLine": 115,
+                        "endColumn": 19,
+                        "endOffset": 4243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2467,
+                    "endLine": 69,
+                    "endColumn": 19,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3809,
+                        "endLine": 108,
+                        "endColumn": 19,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endLine": 76,
+                    "endColumn": 19,
+                    "endOffset": 2881
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3371,
+                        "endLine": 94,
+                        "endColumn": 19,
+                        "endOffset": 3581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2886,
+                    "endLine": 81,
+                    "endColumn": 19,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2739,
+                        "endLine": 71,
+                        "endColumn": 19,
+                        "endOffset": 2889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endLine": 87,
+                    "endColumn": 19,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3037,
+                        "endLine": 82,
+                        "endColumn": 19,
+                        "endOffset": 3221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endLine": 92,
+                    "endColumn": 19,
+                    "endOffset": 3355
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3227,
+                        "endLine": 87,
+                        "endColumn": 19,
+                        "endOffset": 3365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3360,
+                    "endLine": 99,
+                    "endColumn": 19,
+                    "endOffset": 3619
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3624,
+                    "endLine": 104,
+                    "endColumn": 19,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2895,
+                        "endLine": 76,
+                        "endColumn": 19,
+                        "endOffset": 3031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endLine": 111,
+                    "endColumn": 19,
+                    "endOffset": 3968
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3587,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 3800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4290,
+                    "endColumn": 57,
+                    "endOffset": 4343
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4348,
+                    "endColumn": 55,
+                    "endOffset": 4399
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4404,
+                    "endColumn": 74,
+                    "endOffset": 4474
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\.android\\build-cache\\43dc5fa664bd0fab6b19562e28b5a7060a0d844d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4479,
+                    "endColumn": 75,
+                    "endOffset": 4550
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\.android\\build-cache\\43dc5fa664bd0fab6b19562e28b5a7060a0d844d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4555,
+                    "endColumn": 71,
+                    "endOffset": 4622
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\.android\\build-cache\\43dc5fa664bd0fab6b19562e28b5a7060a0d844d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4627,
+                    "endColumn": 65,
+                    "endOffset": 4688
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\.android\\build-cache\\43dc5fa664bd0fab6b19562e28b5a7060a0d844d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4693,
+                    "endColumn": 52,
+                    "endOffset": 4741
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4746,
+                    "endColumn": 46,
+                    "endOffset": 4788
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 46,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4793,
+                    "endColumn": 47,
+                    "endOffset": 4836
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4841,
+                    "endColumn": 45,
+                    "endOffset": 4882
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 45,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4887,
+                    "endColumn": 57,
+                    "endOffset": 4940
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 57,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4945,
+                    "endColumn": 48,
+                    "endOffset": 4989
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 48,
+                        "endOffset": 1059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4994,
+                    "endColumn": 52,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 52,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 59,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 59,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5107,
+                    "endColumn": 73,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 73,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 83,
+                    "endOffset": 5260
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 83,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5265,
+                    "endColumn": 49,
+                    "endOffset": 5310
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 49,
+                        "endOffset": 1109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5315,
+                    "endColumn": 52,
+                    "endOffset": 5363
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5368,
+                    "endColumn": 46,
+                    "endOffset": 5410
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 46,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5415,
+                    "endColumn": 48,
+                    "endOffset": 5459
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 48,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5464,
+                    "endColumn": 50,
+                    "endOffset": 5510
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 50,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5515,
+                    "endColumn": 45,
+                    "endOffset": 5556
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 45,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5561,
+                    "endColumn": 43,
+                    "endOffset": 5600
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 43,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5605,
+                    "endColumn": 51,
+                    "endOffset": 5652
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 51,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5657,
+                    "endColumn": 54,
+                    "endOffset": 5707
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 54,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5712,
+                    "endColumn": 45,
+                    "endOffset": 5753
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 45,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5758,
+                    "endColumn": 88,
+                    "endOffset": 5842
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 88,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5847,
+                    "endColumn": 43,
+                    "endOffset": 5886
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 43,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5891,
+                    "endLine": 147,
+                    "endColumn": 12,
+                    "endOffset": 6178
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6183,
+                    "endLine": 150,
+                    "endColumn": 12,
+                    "endOffset": 6338
+                },
+                "from": {
+                    "file": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    }
+]

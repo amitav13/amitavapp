@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amitav App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="books_title">Books</string>
+    <string name="music_title">Music</string>
+    <string name="news_title">News</string>
+    <string name="settings_title">Settings</string>
+    <string name="share_title">Share</string>
+    <string name="home_title">Welcome</string>
+    <string name="welcome">Welcome</string>
+    <string name="data_conn_msg">Data Connection</string>
+    <string name="share_list_msg">Share Lists</string>
+    <string name="add_menu">Add Items</string>
+    <string name="list_menu">Show Items</string>
+    <string name="delete_menu">Delete Items</string>
+    <string name="db_label">DB Activity</string>
+    <string name="email_list">Share List</string>
+
+
+
+</resources>

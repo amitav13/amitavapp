@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >   
+    <TextView  
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/response" />  
+            
+       <ListView
+        android:id="@+id/prodrec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawSelectorOnTop="false"/> 
+    <TableLayout
+        android:id="@+id/add_table"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TableRow >
+            <TextView
+                android:text="Index:"
+                android:padding="3dip" />
+            <EditText
+                android:id="@+id/p_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </TableRow>
+        <TableRow >
+            <TextView   
+                android:text="Title:"
+                android:padding="3dip" />
+            <EditText
+                android:id="@+id/p_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 android:minWidth="150dip" />
+        </TableRow>
+        <TableRow >
+            <TextView   
+                android:text="Author:"
+                android:padding="3dip" />
+            <EditText
+                android:id="@+id/p_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 android:minWidth="150dip" />
+        </TableRow>
+        <TableRow >
+            <TextView   
+                android:text="Media Type (B=Book, S=Song):"
+                android:padding="3dip" />
+            <EditText
+                android:id="@+id/p_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 android:minWidth="150dip" />
+        </TableRow>
+        <TableRow >
+            <TextView
+                android:text="Include (0=NO, 1=YES):"
+                android:padding="3dip" />     
+            <EditText
+                android:id="@+id/p_inc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="50dip" />
+        </TableRow>
+        <TableRow >
+            <Button
+                android:id="@+id/add_button"
+                android:text="Add Media"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip" />
+            <Button
+                android:id="@+id/cancel_button"
+                android:text="Cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

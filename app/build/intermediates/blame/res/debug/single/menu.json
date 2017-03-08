@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\db_insert.xml",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\menu\\db_insert.xml"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\db_menu.xml",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\menu\\db_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_database_app.xml",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\menu\\activity_database_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\menu\\share_menu.xml"
+    }
+]

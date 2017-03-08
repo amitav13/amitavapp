@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\books.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\books.png"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_btn.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\settings_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amitavlogo.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\amitavlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music.png",
+        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    }
+]
