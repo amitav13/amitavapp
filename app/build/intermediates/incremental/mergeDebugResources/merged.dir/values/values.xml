@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BlackBook">
+        <item>Shruti Haasan</item>
+        <item>Urvashi Rautela</item>
+        <item>Anushka Sharma</item>
+        <item>Nargis Fakhri</item>
+        <item>Alia Bhatt</item>
+        <item>Katrina Kaif</item>
+        <item>Kareena Kapoor</item>
+        <item>Jacqueline Fernandez</item>
+        <item>Tamannaah Bhatia</item>
+        <item>Kriti Sanon</item>
+        <item>Yami Gautam</item>
+        <item>Neha Sharma</item>
+        <item>Elli Avram</item>
+        <item>Sunny Leone</item>
+        <item>Zarine Khan</item>
+        <item>Shraddha Kapoor</item>
+    </string-array>
+    <string-array name="Created">
+        <item>Mike Fallon</item>
+        <item>Gov</item>
+    </string-array>
+    <string-array name="DEFCON">
+        <item>Farid Zidan</item>
+        <item>Ritesh Saraf</item>
+        <item>Any API Owner</item>
+        <item>Retail Technology Vortex</item>
+        <item>Cersei Lanister</item>
+    </string-array>
+    <string-array name="ICE">
+        <item>Chandra Bommas</item>
+        <item>Fawad Ahmad</item>
+        <item>Basanta Tandon</item>
+        <item>Renate Pyhel</item>
+        <item>Melisandre Carice von Houten</item>
+    </string-array>
+    <string-array name="Workout">
+        <item>Pushups - 10 sets x 100 reps</item>
+        <item>Barbells - 10 sets x 200 pounds</item>
+        <item>Benchpress - 10 sets x 300 pounds</item>
+        <item>Dwayne Johnson Rock Hard Reps - 10 sets x 100 reps</item>
+        <item>Incline Dumbbell press - 10 sets x 250 pounds</item>
+        <item>Dumbbell Flys - 10 sets x 100 pounds</item>
+        <item>John Cena WWE Reps - 10 sets x 100 reps</item>
+        <item>Legpress - 10 sets x 300 pounds</item>
+        <item>Leg Squats - 10 sets x 100 reps</item>
+        <item>Fantastic Four The Thing Reps - 10 sets x 100 reps</item>
+        <item>Seated Rows - 10 sets x 200 resistance</item>
+        <item>Barbell Rows - 10 sets x 300 resistance</item>
+        <item>Chinups - 10 sets x 100 reps</item>
+        <item>The HULK Reps - 10 sets x 100 reps</item>
+        <item>Abdominals - 10 sets x 100 reps</item>
+        <item>Barbell Bicep Curls - 10 sets x 200 pounds</item>
+    </string-array>
+    <string-array name="artists">
+    	<item>Rihanna</item>
+    	<item>Fitz and the Tantrums</item>
+    	<item>Eric Clapton</item>
+    	<item>Ozzy Osbourne</item>
+    	<item>Lionel Ritchie</item>
+    </string-array>
+    <string-array name="authors">
+    	<item>Justin Cronin</item>
+    	<item>Mark Twain</item>
+    	<item>Laura Hillenbrand</item>
+    	<item>Dr. Seuss</item>
+    	<item>Katie Norris</item>
+    </string-array>
+    <string-array name="booklist">
+    	<item>The Passage</item>
+    	<item>The Twelve</item>
+    	<item>Hunger Games</item>
+    	<item>Unbroken</item>
+    	<item>A Soldiers Journey</item>
+    </string-array>
+    <string-array name="data_conn">
+        <item>Wi-Fi Only</item>
+        <item>Internet Only</item>
+        <item>Either</item>
+    </string-array>
+    <string-array name="dataconnselected">
+        <item>Wi-Fi Only</item>
+        <item>Internet Only</item>
+        <item>Either</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="listselected">
+        <item>Books</item>
+        <item>Music</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="navig_array">
+        <item>@string/home_title</item>
+        <item>@string/books_title</item>
+        <item>@string/music_title</item>
+        <item>@string/news_title</item>
+        <item>@string/settings_title</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Books</item>
+        <item>Music</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="songlist">
+    	<item>Diamonds</item>
+    	<item>MoneyGrabber</item>
+    	<item>Layla</item>
+    	<item>Bark At The Moon</item>
+    	<item>Dancin On The Ceiling</item>
+    </string-array>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="add_menu">Add Items</string>
+    <string name="app_name">Amitav App</string>
+    <string name="books_title">Books</string>
+    <string name="data_conn_msg">Data Connection</string>
+    <string name="db_label">DB Activity</string>
+    <string name="delete_menu">Delete Items</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="email_list">Share List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_title">Welcome</string>
+    <string name="list_menu">Show Items</string>
+    <string name="menu_settings">Settings</string>
+    <string name="music_title">Music</string>
+    <string name="news_title">News</string>
+    <string name="settings_title">Settings</string>
+    <string name="share_list_msg">Share Lists</string>
+    <string name="share_title">Share</string>
+    <string name="title_activity_preference_frag_app">PreferenceFragAppActivity</string>
+    <string name="welcome">Welcome</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"> 
+       <!-- 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

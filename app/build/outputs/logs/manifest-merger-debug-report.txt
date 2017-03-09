@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /Users/amitavk/.android/build-cache/589f65f82e4c5b27e645e0e7a8ad4b4d975b85b8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /Users/amitavk/.android/build-cache/2a4104e4d7228ac7e8b307f08cb8c1458a2afb76/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] /Users/amitavk/.android/build-cache/2a4104e4d7228ac7e8b307f08cb8c1458a2afb76/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:14:22-64
+application
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:16:5-32:19
+MERGED from [com.android.support:support-v4:24.1.1] /Users/amitavk/.android/build-cache/2a4104e4d7228ac7e8b307f08cb8c1458a2afb76/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:18:9-44
+	android:theme
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:20:9-70
+activity#com.ecspan.amitavapp.MainActivity
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:23:13-39
+	android:name
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:22:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/amitavk/androidStudioProjects/amitavapp/app/src/main/AndroidManifest.xml:27:27-74

@@ -1,90 +1,178 @@
 [
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_music.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_music.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blackb_row.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\blackb_row.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/activity_collection_demo.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/activity_collection_demo.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blackb.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_blackb.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/workout_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/workout_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_album.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_album.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blackb.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_blackb.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_activity.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\details_activity.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_activity.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\details_activity.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_book.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ice.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_ice.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/details_activity.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/details_activity.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\album_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_object.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_collection_object.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_ice.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_ice.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_def.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_def.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_music.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_music.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_author.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_author.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_author.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_author.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_row.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\album_row.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/blackb_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/blackb_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_demo.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_collection_demo.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/activity_database_app.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/activity_database_app.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dbmgr.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_dbmgr.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_collection_object.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_collection_object.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workout_row.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\workout_row.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_database_app.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_database_app.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ice_row.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\ice_row.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\def_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_workout.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_workout.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/album_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/album_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_news.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_def.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_def.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_database_app.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_database_app.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blackb_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\blackb_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_row.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\def_row.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/def_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/def_row.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\images_layout.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\images_layout.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_album.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_album.xml"
     },
     {
-        "merged": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_dummy.xml",
-        "source": "C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_section_dummy.xml"
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ice.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_ice.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_object.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_collection_object.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_album.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_album.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_def.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_def.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_news.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_author.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_author.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/images_layout.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/images_layout.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_blackb.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_blackb.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/ice_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/ice_row.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_demo.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\activity_collection_demo.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dbmgr.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_dbmgr.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workout_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\workout_row.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_dbmgr.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_dbmgr.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ice_row.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\ice_row.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_workout.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_book.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_book.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_workout.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_workout.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\images_layout.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\images_layout.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/app/build/intermediates/res/merged/debug/layout/fragment_section_dummy.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/app/src/main/res/layout/fragment_section_dummy.xml"
+    },
+    {
+        "merged": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_dummy.xml",
+        "source": "/Users/amitavk/androidStudioProjects/amitavapp/C:\\Users\\FalMi001\\Personal\\AndroidStudioProjects\\AmitavApp\\app\\src\\main\\res\\layout\\fragment_section_dummy.xml"
     }
 ]
